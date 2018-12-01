@@ -1,3 +1,3 @@
 # hello-world
 My first project placed on GitHub
-My first branch on README.md file
+Thats the change made on branch "readme-edits"
